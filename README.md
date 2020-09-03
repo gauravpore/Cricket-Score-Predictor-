@@ -6,6 +6,6 @@ Data:
 
 Model:
 -Linear Regression
--Randdom Forests
+-Random Forests
 
 
