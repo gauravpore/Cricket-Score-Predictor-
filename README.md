@@ -1,4 +1,4 @@
-# Cricket-Score-Predictor
+# Score-Predictor
 Predicting of First Innings Score. 
 Data:
 -Downloaded from https://cricsheet.org/downloads/
